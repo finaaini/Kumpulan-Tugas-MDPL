@@ -16,7 +16,7 @@ SOFTWARE REQUIREMENT SPESIFICATION
 </pre>
  
  <hr>
-PROTOTYPING
+DESAIN DOKUMEN
 <pre>
 5200411207 Firnawa Adhitama         : Squence Diagram
 5200411225 Fina Nuraini             : Class Diagram, Object Diagram
