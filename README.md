@@ -59,3 +59,13 @@ Laporan SCRUM
  5200411248 Thio Prasetyo           : Melakukan Sprint
  </pre>
 <hr>
+
+<hr>
+Laporan AGILE-LSD
+ <pre>
+ 5200411207 Firnawa Adhitama        : BAB 1 Tentang Pendahuluan
+ 5200411225 Fina Nuraini            : BAB 3 Tentang Contoh Metode(review 1 jurnal)
+ 5200411241 Alfianda Suci Wulansari : BAB 2 Tentang Pembahasan LSD
+ 5200411248 Thio Prasetyo           : BAB 4 Tentang Perbandingan dengan metode waterfall, prototype, RAD
+ </pre>
+<hr>
