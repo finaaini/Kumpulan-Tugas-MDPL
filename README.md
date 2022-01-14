@@ -33,7 +33,15 @@ Perintah SQL
 5200411248 Thio Prasetiyo           : DCL (Data Control Language)
 </pre>
 
-<hr>
+PROTOTYPING
+<pre>
+5200411207 Firnawa Adhitama         : Output
+5200411225 Fina Nuraini             : Sketsa Interface, Proses
+5200411241 Alfianda Suci Wulansari  : Input
+5200411248 Thio Prasetiyo           : Desain Interface
+ </pre>
+ 
+ <hr>
  RAD (RAPID APPLICATION DEVELOPMENT)
  <pre>
  5200411207 Firnawa Adhitama        : Pembentukan Aplikasi (Pembentukan Penjelasan Aplikasi & Kode Progam), Pengujian & Turnover (Proses Pengujian Sistem, Fungsi Jalannya Sistem)
@@ -51,11 +59,3 @@ Laporan SCRUM
  5200411248 Thio Prasetyo           : Melakukan Sprint
  </pre>
 <hr>
-PROTOTYPING
-<pre>
-5200411207 Firnawa Adhitama         : Output
-5200411225 Fina Nuraini             : Sketsa Interface, Proses
-5200411241 Alfianda Suci Wulansari  : Input
-5200411248 Thio Prasetiyo           : Desain Interface
- </pre>
- 
